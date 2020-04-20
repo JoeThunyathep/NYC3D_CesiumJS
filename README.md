@@ -1,4 +1,10 @@
 # NYC3D_CesiumJS
-An example 3D Web-based application using CesiumJS and 3D Tiles of NYC.
-![ApplicationImage](./app.jpg)
+An example 3D Web-based application using [CesiumJS](https://github.com/CesiumGS/cesium) and 3D Tiles of NYC.
+![ApplicationImage](./app.gif)
+
+## 3D City Model 
+The 3D City Model of NYC is based on [NYCDOITT](https://www1.nyc.gov/site/doitt/initiatives/3d-building.page) 
+
+## License
+The data is under [NYC.gov-Terms of Use](http://www.nyc.gov/html/misc/html/tou.html) and [NYC.gov-Privacy Policy](http://nyc.gov/portal/site/nycgov/menuitem.b52b1c491d03e607a62fa24601c789a0/).
 
