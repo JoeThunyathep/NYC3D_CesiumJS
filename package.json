@@ -1,0 +1,24 @@
+{
+  "name": "nyc3d_cesiumjs",
+  "version": "1.0.0",
+  "description": "New York City 3D City Model CesiumJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeThunyathep/NYC3D_CesiumJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeThunyathep/NYC3D_CesiumJS/issues"
+  },
+  "homepage": "https://github.com/JoeThunyathep/NYC3D_CesiumJS#readme",
+  "dependencies": {
+    "cesium": "^1.68.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
