@@ -2,7 +2,22 @@
 An example 3D Web-based application using [CesiumJS](https://github.com/CesiumGS/cesium) and 3D Tiles of NYC.
 ![ApplicationImage](./app.gif)
 
-## 3D City Model 
+## Usage Guide
+1. Installing Dependencies
+
+```
+npm install
+```
+
+2. Run
+
+```
+node server.js
+```
+3. That's it! Your application is running at http://localhost:3000
+
+
+## Dataset
 The 3D City Model of NYC is based on [NYCDOITT](https://www1.nyc.gov/site/doitt/initiatives/3d-building.page) 
 
 The Converted 3D City Model in 3D Tiles is available here: [3dtile_nyc.7z](http://joethunyathep.github.io/3dtile_nyc.7z) 
